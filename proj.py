@@ -41,3 +41,13 @@ if func == "1":
 #host the link on your system
 #redirect to the original site after getting info to avoid suspicion
 #inject keylogger while you're at it
+
+
+
+
+
+
+
+
+
+#detecting a link's safety
